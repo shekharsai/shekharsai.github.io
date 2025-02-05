@@ -93,8 +93,8 @@ header hr {
     color: #4B0082; /* Indigo */
     border-bottom: 3px solid #E63946; /* Deep Red */
     display: inline-block;
-    padding-bottom: 1px;
-    margin-bottom: 5px;
+    padding-bottom: 2px;
+    margin-bottom: 3px;
 }
 
 .research-content {
@@ -109,7 +109,7 @@ header hr {
   padding-bottom: 1px;
   margin-bottom: 4px;
   margin-left: 2rem; /* Shifts h4 to the right */
-  margin-top: 0; /* Removes extra space before h4 */
+  margin-top: 1; /* Removes extra space before h4 */
 }
 
 .research-content ul {
