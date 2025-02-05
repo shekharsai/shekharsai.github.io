@@ -104,10 +104,10 @@ header hr {
 .research-content h4 {
   font-size: 1.25em;
   color: #1E3A8A; /* Dark Blue */
-  border-bottom: 3px solid #4B0082; /* Indigo */
+  border-bottom: 2px solid #4B0082; /* Indigo */
   display: inline-block;
-  padding-bottom: 1px;
-  margin-bottom: 4px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
   margin-left: 2rem; /* Shifts h4 to the right */
   margin-top: 1; /* Removes extra space before h4 */
 }
@@ -125,7 +125,7 @@ header hr {
 }
 .research-content li {
   font-size: 1rem;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
   color: #555;
 }
 
