@@ -105,6 +105,7 @@ header hr {
   list-style-type: disc;  /* Ensures list items appear with bullet points */
   padding-left: 3.5rem;   /* Adds padding for the list indentation */
   margin-left: 0;         /* Removes the default margin from the left */
+  justify-content: space-evenly;
 }
 
 .research-content {
@@ -126,6 +127,7 @@ header hr {
   list-style-type: disc;  /* Ensures list items appear with bullet points */
   padding-left: 4.5rem;   /* Adds padding for the list indentation */
   margin-left: 0;         /* Removes the default margin from the left */
+  justify-content: space-evenly;
 }
 
 .research-content p {
@@ -137,15 +139,18 @@ header hr {
   font-size: 1rem;
   margin-bottom: 0.5rem;
   color: #555;
+  justify-content: space-evenly;
 }
 
 .research-content li strong {
   color: #333;
+  justify-content: space-evenly;
 }
 
 .research p {
     /*text-align: justify;*/
     font-size: 16px;
+    justify-content: space-evenly;
 }
 
 /* Responsive Design */
